@@ -1,6 +1,6 @@
 # Adaptive Polyak Step-Size for Momentum Accelerated Stochastic Gradient Descent
 
-This repository contains the code for the **SGDM-APS** algorithm proposed in the paper **"Adaptive Polyak Step-Size for Momentum Accelerated Stochastic Gradient Descent with General Convergence Guarantee"**, published in *IEEE Transactions on Signal Processing (TSP)*.
+This repository contains the code for the **SGDM-APS** algorithm proposed in the paper **"Adaptive Polyak Step-Size for Momentum Accelerated Stochastic Gradient Descent with General Convergence Guarantee"**, published in *IEEE Transactions on Signal Processing (TSP)*. [paper link](https://ieeexplore.ieee.org/document/10836899).
 
 ## Overview
 This project builds upon the implementation from [SPS repository](https://github.com/IssamLaradji/sps). The code is implemented in Python and requires PyTorch.
